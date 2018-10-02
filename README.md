@@ -32,9 +32,9 @@ Bild:
 
 ##### Dag 1: Tisdag 2.10
 
-Projekt: Påbörjade google-clone övning i skolan
+Projekt: 
 
-Reflektioner: Behöver lära mig mera om CSS Flexbox. Tror jag använder "flex containrar" för ofta.
+lärt mig hur github funkar
 
 Länkar:
 
